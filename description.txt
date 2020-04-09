@@ -1,0 +1,5 @@
+USERNAME : jmmbclient | PROPERTY : residential | BEDROOM : 13 | BATHROOM : 40 | SIZE : 2000 | BUILDING TYPE : town house | Listing Type : purchase| PRICE : 10000000
+USERNAME : trudi567 | PROPERTY : residential | BEDROOM : 1 | BATHROOM : 2 | SIZE : 15 | BUILDING TYPE : apartment | Listing Type : purchase| PRICE : 20
+USERNAME : trudi658 | PROPERTY : residential | BEDROOM : 3 | BATHROOM : 2 | SIZE : 1000 | BUILDING TYPE : housing | Listing Type : rent| PRICE : 60000
+USERNAME : scsdcas | PROPERTY : residential | BEDROOM : 1 | BATHROOM : 1 | SIZE : 3.5 | BUILDING TYPE : housing | Listing Type : purchase| PRICE : 3012931423
+USERNAME : wickedmanting | PROPERTY : residential | BEDROOM : 1 | BATHROOM : 1 | SIZE : 10 | BUILDING TYPE : apartment | Listing Type : rent| PRICE : 2500000

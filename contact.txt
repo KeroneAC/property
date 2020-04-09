@@ -1,0 +1,5 @@
+USERNAME : jmmbclient | FIRST NAME : Kerone | LAST NAME : Creary | PASSWORD : 12345 | TEL# : 8769194356 | EMAIL : keronecreary@hotmail.com
+USERNAME : trudi567 | FIRST NAME: Trudi-Ann | LAST NAME : Nicholson | PASSWORD : ilovefood | TEL# : 8769194356 | EMAIL: trudiann.nicholson@gmail.com
+USERNAME : trudi658 | FIRST NAME: Trudi-Ann | LAST NAME : Nicholson | PASSWORD : ilovemy#1mom | TEL# : 8769194356 | EMAIL: trudiann.nicholson@gmail.com
+USERNAME : scsdcas | FIRST NAME: Kerone | LAST NAME : Creary | PASSWORD : 12345678 | TEL# : 8769194356 | EMAIL: trudiannnicholson@yahoo.com
+USERNAME : wickedmanting | FIRST NAME: Kerone | LAST NAME : Creary | PASSWORD : antonio77 | TEL# : 8769194356 | EMAIL: keronecreary@hotmail.com
